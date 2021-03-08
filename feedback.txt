@@ -1,0 +1,15 @@
+1. Are all your files pushed to your GitHub repository?
+
+	- No commits to repository
+
+2. Does your submission include a Makefile with both the default like target and a clean target?
+
+	- No commits to repository
+
+3. Does your like.c program follow the specification above?
+
+	- No commits to repository
+
+4. Is your name and Slack code included in a comment at the top of your source code file?
+
+	- No commits to repository
